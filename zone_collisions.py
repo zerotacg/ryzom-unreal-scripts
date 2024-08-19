@@ -1,6 +1,6 @@
-import unreal;
+import unreal
 
-zones_path = "/Game/ryzom/fyros/zones"
+zones_path = "/Game/ryzom/zorai/zones"
 
 mesh_editor = unreal.get_editor_subsystem(unreal.StaticMeshEditorSubsystem)
 asset_helper = unreal.AssetRegistryHelpers()
