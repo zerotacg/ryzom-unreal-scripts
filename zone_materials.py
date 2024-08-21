@@ -1,4 +1,4 @@
-import unreal;
+import unreal
 
 zones_path = "/Game/ryzom/fyros/zones"
 tilebank_path = "/Game/ryzom/desert/Materials"
